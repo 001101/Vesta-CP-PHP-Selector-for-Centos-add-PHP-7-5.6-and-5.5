@@ -16,6 +16,9 @@ SK PHP Selector:
 
 http://mirror.skamasle.com/vestacp/testvestacp.png
 
+# Some problems whit big files on joomla, wordpress, plugins or modules fix -> http://forum.vestacp.com/viewtopic.php?f=19&t=10854&p=43843#p43749
+
+
   CHANGELOG
 :::::::::::::::
 
